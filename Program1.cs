@@ -14,7 +14,7 @@ namespace zadanie_domowe_1
             Console.WriteLine("Podaj 2 liczbe");
 
             int b = Convert.ToInt32(Console.ReadLine());
-
+ 
             int liczba = a*b;
 
 
